@@ -1,0 +1,11 @@
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\bin\Debug\vcardProject.exe.config
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\bin\Debug\vcardProject.exe
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\bin\Debug\vcardProject.pdb
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\obj\Debug\vcardProject.csproj.AssemblyReference.cache
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\obj\Debug\vcardProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\obj\Debug\vcardProject.Form1.resources
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\obj\Debug\vcardProject.Properties.Resources.resources
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\obj\Debug\vcardProject.csproj.GenerateResource.cache
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\obj\Debug\vcardProject.csproj.CoreCompileInputs.cache
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\obj\Debug\vcardProject.exe
+C:\Users\Ruh Adam\source\repos\vcardProject\vcardProject\obj\Debug\vcardProject.pdb
